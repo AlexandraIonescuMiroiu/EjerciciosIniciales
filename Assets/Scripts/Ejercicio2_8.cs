@@ -5,6 +5,7 @@ using UnityEngine;
 public class Ejercicio2_8 : MonoBehaviour
 {
     // Start is called before the first frame update
+    //idk
     void Start()
     {
         
